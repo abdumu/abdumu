@@ -9,7 +9,7 @@
 
 - 📫   How to reach me: [Twitter](https://twitter.com/aphpdev)
 
-- 👨‍💻  I like & sometimes contribut to: [Laravel](https://github.com/laravel/framework/pulls?q=is%3Apr+author%3Aabdumu+)
+- 👨‍💻  I like & sometimes contribute to: [Laravel](https://github.com/laravel/framework/pulls?q=is%3Apr+author%3Aabdumu+)
  
 - 🥰   You probably visited my profile because of: [laravel-visits](https://github.com/awssat/laravel-visits) or [tailwindo](https://github.com/awssat/tailwindo)
  
